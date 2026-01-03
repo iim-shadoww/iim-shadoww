@@ -26,34 +26,17 @@
 
 <br/>
 
-## 🏆 Battle Honors
+## 📊 System Status
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=iim-shadoww&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
-</div>
-
-<br/>
-
-## 📊 Combat Statistics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=iim-shadoww&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-      </td>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iim-shadoww&layout=compact&theme=radical&hide_border=true" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  <img src="https://streak-stats.demolab.com/?user=iim-shadoww&theme=radical&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/SYSTEM_INTEGRITY-100%25-success?style=for-the-badge&logo=github&logoColor=white&color=2e1065" />
+  <img src="https://img.shields.io/badge/MISSION-ACTIVE-blueviolet?style=for-the-badge&logo=dependabot&logoColor=white&color=4c1d95" />
+  <img src="https://img.shields.io/badge/THREAT_LEVEL-MIDNIGHT-000000?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/CLASS-SHADOW_ASSASSIN-black?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/WEAPON-CODE-critical?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=7e22ce" />
+</p>
 
 <br/>
 
