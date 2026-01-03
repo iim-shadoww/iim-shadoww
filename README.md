@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4c1d95,2e1065,000000&height=250&section=header&text=System%20Online&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Architect%20of%20Genes%20and%20Code&descAlignY=55&descAlign=50" />
 
-### 🧬 MSc Genetics & Plant Breeding | 💻 AI Developer | ⚔️ Shadow Coder
+### 💻 AI Developer | ⚔️ Shadow Coder
 
 <br/>
 
