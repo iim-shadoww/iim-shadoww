@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4c1d95,2e1065,000000&height=250&section=header&text=System%20Online&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Architect%20of%20Virtual%20Shadows&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d500f9,50:651fff,100:000000&height=250&section=header&text=System%20Online&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Architect%20of%20Virtual%20Shadows&descAlignY=55&descAlign=50" />
 
 ### 💻 AI Developer | ⚡ System Architect | ⚔️ Shadow Coder
 
